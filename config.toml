@@ -6,3 +6,7 @@ title = 'Hollie Johnson'
 theme = "mini"
 
 publishDir = "docs"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
