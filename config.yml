@@ -3,7 +3,7 @@ languageCode: en-uk
 title: Hollie Johnson
 
 # Change the default theme to be use when building the site with Hugo
-theme: github.com/adityatelange/hugo-PaperMod
+theme: PaperMod
 
 publishDir: "docs"
 
