@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>development on Hollie Johnson</title>
+    <link>https://holliejohnson.github.io/categories/development/</link>
+    <description>Recent content in development on Hollie Johnson</description>
+    <image>
+      <url>https://holliejohnson.github.io/papermod-cover.png</url>
+      <link>https://holliejohnson.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 14 Nov 2022 13:55:09 +0000</lastBuildDate><atom:link href="https://holliejohnson.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TIL: Building a simple site using Hugo</title>
+      <link>https://holliejohnson.github.io/posts/today-i-learned/</link>
+      <pubDate>Mon, 14 Nov 2022 13:55:09 +0000</pubDate>
+      
+      <guid>https://holliejohnson.github.io/posts/today-i-learned/</guid>
+      <description>Today I learned how to build a simple site using Hugo.
+For the initial setup, install hugo then create a new site.
+brew install hugo hugo new site my-website In the directory that has been created, initialise a git repo, and add the theme of your choice as a submodule. I chose this nice theme papermod.
+git init git submodule add https://github.com/adityatelange/hugo-PaperMod themes/PaperMod You can use hugo new to create a post:</description>
+    </item>
+    
+  </channel>
+</rss>

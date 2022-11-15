@@ -2,7 +2,7 @@
 title = "About"
 description = "Data Scientist"
 date = "2022-11-14"
-aliases = ["about-me", "contact"]
+aliases = []
 author = "Hollie"
 enableComments = false
 +++
