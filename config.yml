@@ -5,7 +5,7 @@ title: Hollie Johnson
 # Change the default theme to be use when building the site with Hugo
 theme: PaperMod
 
-publishDir: docs
+#publishDir: docs
 
 minify:
   disableXML: true
