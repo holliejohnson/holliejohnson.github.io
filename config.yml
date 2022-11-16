@@ -35,7 +35,7 @@ languages:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "My site"
+  description: ""
   author: Hollie
   # author: ["Me", "You"] # multiple authors
 
@@ -67,8 +67,23 @@ params:
               url: tags
 
   homeInfoParams:
-      Title: Hi I'm Hollie from Newcastle
-      Content: I'm writing about things I've learned, or are cool or interesting
+      Title: Hi, I'm Hollie 🌻
+      Content: | 
+        **ml | stats | data science | development**
+
+        -
+
+        possibly also bikes and benchpress
+
+        and other things
+
+        -
+
+        📍 Newcastle, UK
+
+        
+
+
 
   socialIcons:
         - name: twitter
