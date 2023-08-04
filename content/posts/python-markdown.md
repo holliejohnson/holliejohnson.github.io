@@ -53,6 +53,8 @@ Whilst this feature can be convenient when returning to partially run notebooks,
 
 While there are hacks to get around this, such as [saving the file as .Rmd format](https://towardsdatascience.com/version-control-with-jupyter-notebooks-f096f4d7035a) for version control, it would be great if we could harness some of the positives of notebooks, including the rich markdown features available, without the associated version control issues. Fortunately we can(!) since VSCode supports running of `.py` files as notebooks in the interactive window, including markdown. 
 
+---
+
 ### Running a `.py` script as a notebook
 The following has been tested in Visual Studio Code Version 1.61.1.
 
