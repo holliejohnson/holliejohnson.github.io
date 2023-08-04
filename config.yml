@@ -25,8 +25,8 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
-                  url: archives
+                - name: Posts
+                  url: posts/
                   weight: 5
                 - name: Tags
                   url: tags/
@@ -54,35 +54,30 @@ params:
   images: ["papermod-cover.png"]
 
   profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "#"
-        imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
-        buttons:
-            - name: Archives
-              url: archives
-            - name: Tags
-              url: tags
+        enabled: true
+        title: Hi, I'm Hollie 🌻
+        subtitle: " 
+        **ml | stats | data science | development** \n\n
 
-  homeInfoParams:
-      Title: Hi, I'm Hollie 🌻
-      Content: | 
-        **ml | stats | data science | development**
-
-        -
-
-        possibly also bikes and benchpress
-
-        and other things
-
-        -
+        possibly also bikes and benchpress \n
+        
+        and other things \n 
+        
+          \n
 
         📍 Newcastle, UK
+        "
 
-        
-
+        imageUrl: "/img/hollie.jpg"
+        imageTitle: my image
+        imageWidth: 120
+        imageHeight: 120
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+            
 
 
   socialIcons:
