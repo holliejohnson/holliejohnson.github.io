@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 14 Nov 2022 13:55:09 +0000</lastBuildDate><atom:link href="https://holliejohnson.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 13:06:11 +0000</lastBuildDate><atom:link href="https://holliejohnson.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easy markdown in python scripts 🐍</title>
+      <link>https://holliejohnson.github.io/posts/python-markdown/</link>
+      <pubDate>Wed, 16 Nov 2022 13:06:11 +0000</pubDate>
+      
+      <guid>https://holliejohnson.github.io/posts/python-markdown/</guid>
+      <description>Markdown is a popular, lightweight markup language commonly used for text formatting (and used in this site). Whilst markdown can be written in a standalone file (for example, a README.md), it is also used in R Markdown (.Rmd) files and Jupyter (IPython) notebooks (.ipynb). In this blog post, we look at the advantages and disadvantages of notebooks and how we can use markdown directly in standard .py Python scripts.
+As an aside, R Markdown has other advantages over plain markdown, such as being publishable into R bookdown format&amp;hellip; But that&amp;rsquo;s a blog post for another time!</description>
+    </item>
+    
     <item>
       <title>TIL: Building a simple site using Hugo</title>
       <link>https://holliejohnson.github.io/posts/today-i-learned/</link>
