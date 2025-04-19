@@ -77,6 +77,8 @@ params:
               url: posts
             - name: Tags
               url: tags
+            - name: HJ Strength Coaching
+              url: "https://holliejohnson.github.io/hj_strengthcoaching"
             
 
 
