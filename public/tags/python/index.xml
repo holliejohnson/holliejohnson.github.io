@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python on Hollie Johnson</title>
-    <link>https://holliejohnson.github.io/tags/python/</link>
-    <description>Recent content in python on Hollie Johnson</description>
-    <image>
-      <url>https://holliejohnson.github.io/papermod-cover.png</url>
-      <link>https://holliejohnson.github.io/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <lastBuildDate>Wed, 16 Nov 2022 13:06:11 +0000</lastBuildDate><atom:link href="https://holliejohnson.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <title>Python on Hollie Johnson</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Hollie Johnson</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Nov 2022 13:06:11 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy markdown in python scripts 🐍</title>
-      <link>https://holliejohnson.github.io/posts/python-markdown/</link>
+      <link>http://localhost:1313/posts/python-markdown/</link>
       <pubDate>Wed, 16 Nov 2022 13:06:11 +0000</pubDate>
-      
-      <guid>https://holliejohnson.github.io/posts/python-markdown/</guid>
-      <description>Markdown is a popular, lightweight markup language commonly used for text formatting (and used in this site). Whilst markdown can be written in a standalone file (for example, a README.md), it is also used in R Markdown (.Rmd) files and Jupyter (IPython) notebooks (.ipynb). In this blog post, we look at the advantages and disadvantages of notebooks and how we can use markdown directly in standard .py Python scripts.
-As an aside, R Markdown has other advantages over plain markdown, such as being publishable into R bookdown format&amp;hellip; But that&amp;rsquo;s a blog post for another time!</description>
+      <guid>http://localhost:1313/posts/python-markdown/</guid>
+      <description>&lt;p&gt;Markdown is a popular, lightweight markup language commonly used for text formatting (and used in this site). Whilst markdown can be written in a standalone file (for example, a &lt;code&gt;README.md&lt;/code&gt;), it is also used in R Markdown (&lt;code&gt;.Rmd&lt;/code&gt;) files and Jupyter (IPython) notebooks (&lt;code&gt;.ipynb&lt;/code&gt;). In this blog post, we look at the advantages and disadvantages of notebooks and how we can use markdown directly in standard &lt;code&gt;.py&lt;/code&gt; Python scripts.&lt;/p&gt;&#xA;&lt;p&gt;As an aside, R Markdown has other advantages over plain markdown, such as being publishable into R bookdown format&amp;hellip; But that&amp;rsquo;s a blog post for another time!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

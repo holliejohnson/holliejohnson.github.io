@@ -1,37 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>development on Hollie Johnson</title>
-    <link>https://holliejohnson.github.io/categories/development/</link>
-    <description>Recent content in development on Hollie Johnson</description>
-    <image>
-      <url>https://holliejohnson.github.io/papermod-cover.png</url>
-      <link>https://holliejohnson.github.io/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <lastBuildDate>Wed, 16 Nov 2022 13:06:11 +0000</lastBuildDate><atom:link href="https://holliejohnson.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <title>Development on Hollie Johnson</title>
+    <link>http://localhost:1313/categories/development/</link>
+    <description>Recent content in Development on Hollie Johnson</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Nov 2022 13:06:11 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy markdown in python scripts 🐍</title>
-      <link>https://holliejohnson.github.io/posts/python-markdown/</link>
+      <link>http://localhost:1313/posts/python-markdown/</link>
       <pubDate>Wed, 16 Nov 2022 13:06:11 +0000</pubDate>
-      
-      <guid>https://holliejohnson.github.io/posts/python-markdown/</guid>
-      <description>Markdown is a popular, lightweight markup language commonly used for text formatting (and used in this site). Whilst markdown can be written in a standalone file (for example, a README.md), it is also used in R Markdown (.Rmd) files and Jupyter (IPython) notebooks (.ipynb). In this blog post, we look at the advantages and disadvantages of notebooks and how we can use markdown directly in standard .py Python scripts.
-As an aside, R Markdown has other advantages over plain markdown, such as being publishable into R bookdown format&amp;hellip; But that&amp;rsquo;s a blog post for another time!</description>
+      <guid>http://localhost:1313/posts/python-markdown/</guid>
+      <description>&lt;p&gt;Markdown is a popular, lightweight markup language commonly used for text formatting (and used in this site). Whilst markdown can be written in a standalone file (for example, a &lt;code&gt;README.md&lt;/code&gt;), it is also used in R Markdown (&lt;code&gt;.Rmd&lt;/code&gt;) files and Jupyter (IPython) notebooks (&lt;code&gt;.ipynb&lt;/code&gt;). In this blog post, we look at the advantages and disadvantages of notebooks and how we can use markdown directly in standard &lt;code&gt;.py&lt;/code&gt; Python scripts.&lt;/p&gt;&#xA;&lt;p&gt;As an aside, R Markdown has other advantages over plain markdown, such as being publishable into R bookdown format&amp;hellip; But that&amp;rsquo;s a blog post for another time!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>TIL: Building a simple site using Hugo</title>
-      <link>https://holliejohnson.github.io/posts/today-i-learned/</link>
+      <link>http://localhost:1313/posts/today-i-learned/</link>
       <pubDate>Mon, 14 Nov 2022 13:55:09 +0000</pubDate>
-      
-      <guid>https://holliejohnson.github.io/posts/today-i-learned/</guid>
-      <description>Today I learned how to build a simple site using Hugo.
-For the initial setup, install hugo then create a new site.
-brew install hugo hugo new site my-website In the directory that has been created, initialise a git repo, and add the theme of your choice as a submodule. I chose this nice theme papermod.
-git init git submodule add https://github.com/adityatelange/hugo-PaperMod themes/PaperMod You can use hugo new to create a post:</description>
+      <guid>http://localhost:1313/posts/today-i-learned/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/hugo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Today I learned how to build a simple site using Hugo.&lt;/p&gt;&#xA;&lt;p&gt;For the initial setup, install hugo then create a new site.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;    brew install hugo&#xA;    hugo new site my-website&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;In the directory that has been created, initialise a git repo, and add the theme of your choice as a submodule. I chose this nice theme &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;&lt;code&gt;papermod&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;git init&#xA;git submodule add https://github.com/adityatelange/hugo-PaperMod themes/PaperMod&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;You can use &lt;code&gt;hugo new&lt;/code&gt; to create a post:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
